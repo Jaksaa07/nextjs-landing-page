@@ -1,11 +1,4 @@
-## Getting Started
+This is a landing page built with Next.js and ChakraUI.
 
-Install the dependencies and run the development server
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
+The link for the website:
+https://xenodochial-khorana-c274d0.netlify.app/
